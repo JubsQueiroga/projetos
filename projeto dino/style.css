@@ -1,0 +1,10 @@
+body{
+    background-color:rgba(219, 120, 255, 0.84);
+}
+.dino{
+    width: 60px;
+    height: 60px;
+    background-image: url(img/dino.png);
+    position: absolute;
+    bottom: 0;
+}

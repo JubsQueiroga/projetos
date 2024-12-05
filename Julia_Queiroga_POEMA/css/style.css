@@ -1,0 +1,26 @@
+
+header{
+    text-align: center;
+       background-color: rgba(167, 103, 202, 0.808);
+       display: flex;
+       flex-wrap: wrap;
+    
+   }body{
+    background-color: rgb(250, 215, 248);
+}
+h2{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#footer{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: smaller;
+    text-align: center;
+}
+#fot{
+    position: absolute; right: 46%;
+}

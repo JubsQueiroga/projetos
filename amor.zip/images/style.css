@@ -1,0 +1,12 @@
+h1,p
+{
+    text-shadow: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(125, 61, 139);
+    text-align: center;
+}
+body
+{
+    background-color: antiquewhite;
+    text-align: center;
+}

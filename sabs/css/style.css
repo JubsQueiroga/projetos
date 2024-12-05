@@ -1,0 +1,56 @@
+
+header{
+ text-align: center;
+    background-color: rgb(74, 86, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+#image{
+ left: 2%;
+
+}  
+  #divBusca{
+    position: absolute ; right: 8%;
+    
+    align-items: center;
+  }
+  #txtBusca{
+    float:left;
+    background-color:antiquewhite;
+    border:solid 1px;
+    border-radius:15px;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:20px;
+    width:150px;
+  }
+h1{
+text-align: left;
+    font-family: fonte;
+
+}
+@font-face {
+    font-family: fonte;
+    src: url(Rafgins-Regular.otf);
+}
+p{
+    text-align: end;
+    font-family: mini;
+
+}
+h2
+{
+   
+ text-align: justify;
+font-size: small;
+font-family: 'Times New Roman', Times, serif ;
+}
+@font-face {
+    font-family: mini;
+    src: url(FashionMode-DemoVersion-Regular.otf);
+}
+sabs{
+    
+}

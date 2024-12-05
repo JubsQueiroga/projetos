@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Jbs Queiroga</title>
+</head>
+<body> 
+    <h2>
+         Calculadora de IMC -> Julia Queiroga
+
+    </h2>
+    <form action=""id="frmImc">
+        <label for="txtNome"> 
+            digite seu nome:
+        </label>
+        <input type="text" name="txtNome" id="txtNome" required>
+        <br>
+        <label for="nmbPeso">
+         digite seu peso:
+        </label>
+        <input type="number" name="nmbPeso" id="nmbPeso" step="0.01" required>
+        <br>
+        <label for="nmbAltura" > 
+            digite sua altura:
+        </label>
+        <input type="number" name="nmbAltura" id="nmbAltura" step="0.01" required>
+        <br>
+        <input type="submit" value="Calcular">
+    </form>
+    <p id="print"></p>
+</body>
+<script type="module" src="js/Main.js"></script>
+</html>
